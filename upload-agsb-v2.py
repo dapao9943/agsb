@@ -33,7 +33,7 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 # ====== 全局可配置参数（可直接在此处修改） ======
 USER_NAME = "dapao"         # 用户名
 UUID = "f350291d-d741-42a8-aa42-222b19c9560c"                     # UUID，留空则自动生成
-PORT = 443                  # Vmess端口，留空或0则自动生成
+PORT =                  # Vmess端口，留空或0则自动生成
 DOMAIN = "stream.9943826.xyz"                   # 域名，留空则自动获取
 CF_TOKEN = "eyJhIjoiYTIyMWM5NDJhZTBjNDg0ZDNhMmZjNTM4NDI5ODMxZDQiLCJ0IjoiOTI0NmRhNTYtYzQ4Zi00OTIyLTkwNmMtZTk4ZjE3N2QwNmU3IiwicyI6Ik5qbGxOVE5rWTJNdE9HSmhOQzAwTkdFekxXSTNZall0WmpneU5tVTNNekJqTkdZeCJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
